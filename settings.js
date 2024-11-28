@@ -11,13 +11,13 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "263780642585"
-global.ownername = "Qasim Ali"
+global.ownername = "Meek"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.location = "Zimbabwe, Harare, Harare"
 
 global.ownernumber = 263780642585'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownername = 'Meek' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
