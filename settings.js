@@ -17,7 +17,7 @@ global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Zimbabwe, Harare, Harare"
 
 global.ownernumber = 263780642585'  //creator number
-global.ownername = 'Meek' //owner name
+global.ownername = 'Qasim Ali' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
